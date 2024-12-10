@@ -69,5 +69,5 @@ public partial class ShopPage : ContentPage
         }
     }
 
-
+    //new commit
 }
